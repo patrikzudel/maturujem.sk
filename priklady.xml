@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Priklady xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<priklad id="1">
+		<maturita>2018/1</maturita>
+		<typ>0</typ>
+		<odp>-5</odp>
+	</priklad>
+	<priklad id="2">
+		<maturita>2018/2</maturita>
+		<typ>0</typ>
+		<odp>9</odp>
+	</priklad>
+	<priklad id="3">
+		<maturita>2018/3</maturita>
+		<typ>0</typ>
+		<odp>85</odp>
+	</priklad>
+	<priklad id="4">
+		<maturita>2018/4</maturita>
+		<typ>0</typ>
+		<odp>9.5</odp>
+	</priklad>
+	<priklad id="5">
+		<maturita>2018/5</maturita>
+		<typ>0</typ>
+		<odp>4</odp>
+	</priklad>
+	<priklad id="6">
+		<maturita>2018/6</maturita>
+		<typ>0</typ>
+		<odp>9.5</odp>
+	</priklad>
+	<priklad id="7">
+		<maturita>2018/7</maturita>
+		<typ>0</typ>
+		<odp>8</odp>
+	</priklad>
+	<priklad id="8">
+		<maturita>2018/8</maturita>
+		<typ>0</typ>
+		<odp>3.14</odp>
+	</priklad>
+	<priklad id="9">
+		<maturita>2018/9</maturita>
+		<typ>0</typ>
+		<odp>7.07</odp>
+	</priklad>
+	<priklad id="10">
+		<maturita>2018/10</maturita>
+		<typ>0</typ>
+		<odp>5000</odp>
+	</priklad>
+	<priklad id="11">
+		<maturita>2018/11</maturita>
+		<typ>0</typ>
+		<odp>124</odp>
+	</priklad>
+	<priklad id="12">
+		<maturita>2018/12</maturita>
+		<typ>0</typ>
+		<odp>7</odp>
+	</priklad>
+	<priklad id="13">
+		<maturita>2018/13</maturita>
+		<typ>0</typ>
+		<odp>17.43</odp>
+	</priklad>
+	<priklad id="14">
+		<maturita>2018/14</maturita>
+		<typ>0</typ>
+		<odp>0.5</odp>
+	</priklad>
+	<priklad id="15">
+		<maturita>2018/15</maturita>
+		<typ>0</typ>
+		<odp>3.2</odp>
+	</priklad>
+	<priklad id="16">
+		<maturita>2018/16</maturita>
+		<typ>0</typ>
+		<odp>12</odp>
+	</priklad>
+	<priklad id="17">
+		<maturita>2018/17</maturita>
+		<typ>0</typ>
+		<odp>214.67</odp>
+	</priklad>
+	<priklad id="18">
+		<maturita>2018/18</maturita>
+		<typ>0</typ>
+		<odp>23.07</odp>
+	</priklad>
+	<priklad id="19">
+		<maturita>2018/19</maturita>
+		<typ>0</typ>
+		<odp>14.56</odp>
+	</priklad>
+	<priklad id="20">
+		<maturita>2018/20</maturita>
+		<typ>0</typ>
+		<odp>58.91</odp>
+	</priklad>
+	<priklad id="21">
+		<maturita>2018/21</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="22">
+		<maturita>2018/22</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="23">
+		<maturita>2018/23</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="24">
+		<maturita>2018/24</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="25">
+		<maturita>2018/25</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="26">
+		<maturita>2018/26</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="27">
+		<maturita>2018/27</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="28">
+		<maturita>2018/28</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="29">
+		<maturita>2018/29</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="30">
+		<maturita>2018/30</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="31">
+		<maturita>2017/1</maturita>
+		<typ>0</typ>
+		<odp>2.92</odp>
+	</priklad>
+	<priklad id="32">
+		<maturita>2017/2</maturita>
+		<typ>0</typ>
+		<odp>23.94</odp>
+	</priklad>
+	<priklad id="33">
+		<maturita>2017/3</maturita>
+		<typ>0</typ>
+		<odp>14325</odp>
+	</priklad>
+	<priklad id="34">
+		<maturita>2017/4</maturita>
+		<typ>0</typ>
+		<odp>1231.5</odp>
+	</priklad>
+	<priklad id="35">
+		<maturita>2017/5</maturita>
+		<typ>0</typ>
+		<odp>6.51</odp>
+	</priklad>
+	<priklad id="36">
+		<maturita>2017/6</maturita>
+		<typ>0</typ>
+		<odp>34</odp>
+	</priklad>
+	<priklad id="37">
+		<maturita>2017/7</maturita>
+		<typ>0</typ>
+		<odp>0.33</odp>
+	</priklad>
+	<priklad id="38">
+		<maturita>2017/8</maturita>
+		<typ>0</typ>
+		<odp>-0.87</odp>
+	</priklad>
+	<priklad id="39">
+		<maturita>2017/9</maturita>
+		<typ>0</typ>
+		<odp>11</odp>
+	</priklad>
+	<priklad id="40">
+		<maturita>2017/10</maturita>
+		<typ>0</typ>
+		<odp>-1</odp>
+	</priklad>
+	<priklad id="41">
+		<maturita>2017/11</maturita>
+		<typ>0</typ>
+		<odp>39</odp>
+	</priklad>
+	<priklad id="42">
+		<maturita>2017/12</maturita>
+		<typ>0</typ>
+		<odp>16</odp>
+	</priklad>
+	<priklad id="43">
+		<maturita>2017/13</maturita>
+		<typ>0</typ>
+		<odp>1</odp>
+	</priklad>
+	<priklad id="44">
+		<maturita>2017/14</maturita>
+		<typ>0</typ>
+		<odp>11</odp>
+	</priklad>
+	<priklad id="45">
+		<maturita>2017/15</maturita>
+		<typ>0</typ>
+		<odp>265.85</odp>
+	</priklad>
+	<priklad id="46">
+		<maturita>2017/16</maturita>
+		<typ>0</typ>
+		<odp>7</odp>
+	</priklad>
+	<priklad id="47">
+		<maturita>2017/17</maturita>
+		<typ>0</typ>
+		<odp>105</odp>
+	</priklad>
+	<priklad id="48">
+		<maturita>2017/18</maturita>
+		<typ>0</typ>
+		<odp>0.22</odp>
+	</priklad>
+	<priklad id="49">
+		<maturita>2017/19</maturita>
+		<typ>0</typ>
+		<odp>0.24</odp>
+	</priklad>
+	<priklad id="50">
+		<maturita>2017/20</maturita>
+		<typ>0</typ>
+		<odp>0.41</odp>
+	</priklad>
+	<priklad id="51">
+		<maturita>2017/21</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="52">
+		<maturita>2017/22</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="53">
+		<maturita>2017/23</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="54">
+		<maturita>2017/24</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="55">
+		<maturita>2017/25</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="56">
+		<maturita>2017/26</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="57">
+		<maturita>2017/27</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="58">
+		<maturita>2017/28</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="59">
+		<maturita>2017/29</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="60">
+		<maturita>2017/30</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="61">
+		<maturita>2016/1</maturita>
+		<typ>0</typ>
+		<odp>5.4</odp>
+	</priklad>
+	<priklad id="62">
+		<maturita>2016/2</maturita>
+		<typ>0</typ>
+		<odp>18</odp>
+	</priklad>
+	<priklad id="63">
+		<maturita>2016/3</maturita>
+		<typ>0</typ>
+		<odp>56</odp>
+	</priklad>
+	<priklad id="64">
+		<maturita>2016/4</maturita>
+		<typ>0</typ>
+		<odp>-2.73</odp>
+	</priklad>
+	<priklad id="65">
+		<maturita>2016/5</maturita>
+		<typ>0</typ>
+		<odp>15</odp>
+	</priklad>
+	<priklad id="66">
+		<maturita>2016/6</maturita>
+		<typ>0</typ>
+		<odp>1.25</odp>
+	</priklad>
+	<priklad id="67">
+		<maturita>2016/7</maturita>
+		<typ>0</typ>
+		<odp>0.75</odp>
+	</priklad>
+	<priklad id="68">
+		<maturita>2016/8</maturita>
+		<typ>0</typ>
+		<odp>0.25</odp>
+	</priklad>
+	<priklad id="69">
+		<maturita>2016/9</maturita>
+		<typ>0</typ>
+		<odp>5</odp>
+	</priklad>
+	<priklad id="70">
+		<maturita>2016/10</maturita>
+		<typ>0</typ>
+		<odp>4</odp>
+	</priklad>
+	<priklad id="71">
+		<maturita>2016/11</maturita>
+		<typ>0</typ>
+		<odp>175</odp>
+	</priklad>
+	<priklad id="72">
+		<maturita>2016/12</maturita>
+		<typ>0</typ>
+		<odp>24</odp>
+	</priklad>
+	<priklad id="73">
+		<maturita>2016/13</maturita>
+		<typ>0</typ>
+		<odp>25</odp>
+	</priklad>
+	<priklad id="74">
+		<maturita>2016/14</maturita>
+		<typ>0</typ>
+		<odp>30</odp>
+	</priklad>
+	<priklad id="75">
+		<maturita>2016/15</maturita>
+		<typ>0</typ>
+		<odp>49</odp>
+	</priklad>
+	<priklad id="76">
+		<maturita>2016/16</maturita>
+		<typ>0</typ>
+		<odp>0.43</odp>
+	</priklad>
+	<priklad id="77">
+		<maturita>2016/17</maturita>
+		<typ>0</typ>
+		<odp>45</odp>
+	</priklad>
+	<priklad id="78">
+		<maturita>2016/18</maturita>
+		<typ>0</typ>
+		<odp>48</odp>
+	</priklad>
+	<priklad id="79">
+		<maturita>2016/19</maturita>
+		<typ>0</typ>
+		<odp>89</odp>
+	</priklad>
+	<priklad id="80">
+		<maturita>2016/20</maturita>
+		<typ>0</typ>
+		<odp>27.94</odp>
+	</priklad>
+	<priklad id="81">
+		<maturita>2016/21</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="82">
+		<maturita>2016/22</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="83">
+		<maturita>2016/23</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="84">
+		<maturita>2016/24</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="85">
+		<maturita>2016/25</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="86">
+		<maturita>2016/26</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="87">
+		<maturita>2016/27</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="88">
+		<maturita>2016/28</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="89">
+		<maturita>2016/29</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="90">
+		<maturita>2016/30</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="91">
+		<maturita>2015/1</maturita>
+		<typ>0</typ>
+		<odp>15</odp>
+	</priklad>
+	<priklad id="92">
+		<maturita>2015/2</maturita>
+		<typ>0</typ>
+		<odp>96</odp>
+	</priklad>
+	<priklad id="93">
+		<maturita>2015/3</maturita>
+		<typ>0</typ>
+		<odp>72</odp>
+	</priklad>
+	<priklad id="94">
+		<maturita>2015/4</maturita>
+		<typ>0</typ>
+		<odp>9</odp>
+	</priklad>
+	<priklad id="95">
+		<maturita>2015/5</maturita>
+		<typ>0</typ>
+		<odp>9.27</odp>
+	</priklad>
+	<priklad id="96">
+		<maturita>2015/6</maturita>
+		<typ>0</typ>
+		<odp>-5</odp>
+	</priklad>
+	<priklad id="97">
+		<maturita>2015/7</maturita>
+		<typ>0</typ>
+		<odp>108</odp>
+	</priklad>
+	<priklad id="98">
+		<maturita>2015/8</maturita>
+		<typ>0</typ>
+		<odp>0.8</odp>
+	</priklad>
+	<priklad id="99">
+		<maturita>2015/9</maturita>
+		<typ>0</typ>
+		<odp>102</odp>
+	</priklad>
+	<priklad id="100">
+		<maturita>2015/10</maturita>
+		<typ>0</typ>
+		<odp>25</odp>
+	</priklad>
+	<priklad id="101">
+		<maturita>2015/11</maturita>
+		<typ>0</typ>
+		<odp>17.43</odp>
+	</priklad>
+	<priklad id="102">
+		<maturita>2015/12</maturita>
+		<typ>0</typ>
+		<odp>-2</odp>
+	</priklad>
+	<priklad id="103">
+		<maturita>2015/13</maturita>
+		<typ>0</typ>
+		<odp>33.33</odp>
+	</priklad>
+	<priklad id="104">
+		<maturita>2015/14</maturita>
+		<typ>0</typ>
+		<odp>126</odp>
+	</priklad>
+	<priklad id="105">
+		<maturita>2015/15</maturita>
+		<typ>0</typ>
+		<odp>0.57</odp>
+	</priklad>
+	<priklad id="106">
+		<maturita>2015/16</maturita>
+		<typ>0</typ>
+		<odp>3</odp>
+	</priklad>
+	<priklad id="107">
+		<maturita>2015/17</maturita>
+		<typ>0</typ>
+		<odp>780</odp>
+	</priklad>
+	<priklad id="108">
+		<maturita>2015/18</maturita>
+		<typ>0</typ>
+		<odp>0.85</odp>
+	</priklad>
+	<priklad id="109">
+		<maturita>2015/19</maturita>
+		<typ>0</typ>
+		<odp>18</odp>
+	</priklad>
+	<priklad id="110">
+		<maturita>2015/20</maturita>
+		<typ>0</typ>
+		<odp>47.89</odp>
+	</priklad>
+	<priklad id="111">
+		<maturita>2015/21</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="112">
+		<maturita>2015/22</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="113">
+		<maturita>2015/23</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="114">
+		<maturita>2015/24</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="115">
+		<maturita>2015/25</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="116">
+		<maturita>2015/26</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="117">
+		<maturita>2015/27</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="118">
+		<maturita>2015/28</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="119">
+		<maturita>2015/29</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="120">
+		<maturita>2015/30</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="121">
+		<maturita>2014/1</maturita>
+		<typ>0</typ>
+		<odp>26</odp>
+	</priklad>
+	<priklad id="122">
+		<maturita>2014/2</maturita>
+		<typ>0</typ>
+		<odp>14</odp>
+	</priklad>
+	<priklad id="123">
+		<maturita>2014/3</maturita>
+		<typ>0</typ>
+		<odp>-7</odp>
+	</priklad>
+	<priklad id="124">
+		<maturita>2014/4</maturita>
+		<typ>0</typ>
+		<odp>8</odp>
+	</priklad>
+	<priklad id="125">
+		<maturita>2014/5</maturita>
+		<typ>0</typ>
+		<odp>-8</odp>
+	</priklad>
+	<priklad id="126">
+		<maturita>2014/6</maturita>
+		<typ>0</typ>
+		<odp>2697.74</odp>
+	</priklad>
+	<priklad id="127">
+		<maturita>2014/7</maturita>
+		<typ>0</typ>
+		<odp>9372</odp>
+	</priklad>
+	<priklad id="128">
+		<maturita>2014/8</maturita>
+		<typ>0</typ>
+		<odp>4</odp>
+	</priklad>
+	<priklad id="129">
+		<maturita>2014/9</maturita>
+		<typ>0</typ>
+		<odp>35.26</odp>
+	</priklad>
+	<priklad id="130">
+		<maturita>2014/10</maturita>
+		<typ>0</typ>
+		<odp>3</odp>
+	</priklad>
+	<priklad id="131">
+		<maturita>2014/11</maturita>
+		<typ>0</typ>
+		<odp>243</odp>
+	</priklad>
+	<priklad id="132">
+		<maturita>2014/12</maturita>
+		<typ>0</typ>
+		<odp>8</odp>
+	</priklad>
+	<priklad id="133">
+		<maturita>2014/13</maturita>
+		<typ>0</typ>
+		<odp>-4</odp>
+	</priklad>
+	<priklad id="134">
+		<maturita>2014/14</maturita>
+		<typ>0</typ>
+		<odp>21</odp>
+	</priklad>
+	<priklad id="135">
+		<maturita>2014/15</maturita>
+		<typ>0</typ>
+		<odp>102</odp>
+	</priklad>
+	<priklad id="136">
+		<maturita>2014/16</maturita>
+		<typ>0</typ>
+		<odp>5</odp>
+	</priklad>
+	<priklad id="137">
+		<maturita>2014/17</maturita>
+		<typ>0</typ>
+		<odp>25</odp>
+	</priklad>
+	<priklad id="138">
+		<maturita>2014/18</maturita>
+		<typ>0</typ>
+		<odp>10</odp>
+	</priklad>
+	<priklad id="139">
+		<maturita>2014/19</maturita>
+		<typ>0</typ>
+		<odp>3</odp>
+	</priklad>
+	<priklad id="140">
+		<maturita>2014/20</maturita>
+		<typ>0</typ>
+		<odp>67</odp>
+	</priklad>
+	<priklad id="141">
+		<maturita>2014/21</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="142">
+		<maturita>2014/22</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="143">
+		<maturita>2014/23</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="144">
+		<maturita>2014/24</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="145">
+		<maturita>2014/25</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="146">
+		<maturita>2014/26</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="147">
+		<maturita>2014/27</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="148">
+		<maturita>2014/28</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="149">
+		<maturita>2014/29</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="150">
+		<maturita>2014/30</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="151">
+		<maturita>2013/1</maturita>
+		<typ>0</typ>
+		<odp>12</odp>
+	</priklad>
+	<priklad id="152">
+		<maturita>2013/2</maturita>
+		<typ>0</typ>
+		<odp>78.4</odp>
+	</priklad>
+	<priklad id="153">
+		<maturita>2013/3</maturita>
+		<typ>0</typ>
+		<odp>47.75</odp>
+	</priklad>
+	<priklad id="154">
+		<maturita>2013/4</maturita>
+		<typ>0</typ>
+		<odp>13</odp>
+	</priklad>
+	<priklad id="155">
+		<maturita>2013/5</maturita>
+		<typ>0</typ>
+		<odp>16.5</odp>
+	</priklad>
+	<priklad id="156">
+		<maturita>2013/6</maturita>
+		<typ>0</typ>
+		<odp>117.28</odp>
+	</priklad>
+	<priklad id="157">
+		<maturita>2013/7</maturita>
+		<typ>0</typ>
+		<odp>4000</odp>
+	</priklad>
+	<priklad id="158">
+		<maturita>2013/8</maturita>
+		<typ>0</typ>
+		<odp>8</odp>
+	</priklad>
+	<priklad id="159">
+		<maturita>2013/9</maturita>
+		<typ>0</typ>
+		<odp>4</odp>
+	</priklad>
+	<priklad id="160">
+		<maturita>2013/10</maturita>
+		<typ>0</typ>
+		<odp>2</odp>
+	</priklad>
+	<priklad id="161">
+		<maturita>2013/11</maturita>
+		<typ>0</typ>
+		<odp>48</odp>
+	</priklad>
+	<priklad id="162">
+		<maturita>2013/12</maturita>
+		<typ>0</typ>
+		<odp>30</odp>
+	</priklad>
+	<priklad id="163">
+		<maturita>2013/13</maturita>
+		<typ>0</typ>
+		<odp>15.63</odp>
+	</priklad>
+	<priklad id="164">
+		<maturita>2013/14</maturita>
+		<typ>0</typ>
+		<odp>-8</odp>
+	</priklad>
+	<priklad id="165">
+		<maturita>2013/15</maturita>
+		<typ>0</typ>
+		<odp>3840</odp>
+	</priklad>
+	<priklad id="166">
+		<maturita>2013/16</maturita>
+		<typ>0</typ>
+		<odp>7</odp>
+	</priklad>
+	<priklad id="167">
+		<maturita>2013/17</maturita>
+		<typ>0</typ>
+		<odp>0</odp>
+	</priklad>
+	<priklad id="168">
+		<maturita>2013/18</maturita>
+		<typ>0</typ>
+		<odp>123</odp>
+	</priklad>
+	<priklad id="169">
+		<maturita>2013/19</maturita>
+		<typ>0</typ>
+		<odp>60</odp>
+	</priklad>
+	<priklad id="170">
+		<maturita>2013/20</maturita>
+		<typ>0</typ>
+		<odp>568</odp>
+	</priklad>
+	<priklad id="171">
+		<maturita>2013/21</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="172">
+		<maturita>2013/22</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="173">
+		<maturita>2013/23</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="174">
+		<maturita>2013/24</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="175">
+		<maturita>2013/25</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="176">
+		<maturita>2013/26</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="177">
+		<maturita>2013/27</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="178">
+		<maturita>2013/28</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="179">
+		<maturita>2013/29</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="180">
+		<maturita>2013/30</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="181">
+		<maturita>2012/1</maturita>
+		<typ>0</typ>
+		<odp>-5</odp>
+	</priklad>
+	<priklad id="182">
+		<maturita>2012/2</maturita>
+		<typ>0</typ>
+		<odp>31944</odp>
+	</priklad>
+	<priklad id="183">
+		<maturita>2012/3</maturita>
+		<typ>0</typ>
+		<odp>3.5</odp>
+	</priklad>
+	<priklad id="184">
+		<maturita>2012/4</maturita>
+		<typ>0</typ>
+		<odp>40</odp>
+	</priklad>
+	<priklad id="185">
+		<maturita>2012/5</maturita>
+		<typ>0</typ>
+		<odp>3</odp>
+	</priklad>
+	<priklad id="186">
+		<maturita>2012/6</maturita>
+		<typ>0</typ>
+		<odp>70</odp>
+	</priklad>
+	<priklad id="187">
+		<maturita>2012/7</maturita>
+		<typ>0</typ>
+		<odp>-6.25</odp>
+	</priklad>
+	<priklad id="188">
+		<maturita>2012/8</maturita>
+		<typ>0</typ>
+		<odp>54.24</odp>
+	</priklad>
+	<priklad id="189">
+		<maturita>2012/9</maturita>
+		<typ>0</typ>
+		<odp>15</odp>
+	</priklad>
+	<priklad id="190">
+		<maturita>2012/10</maturita>
+		<typ>0</typ>
+		<odp>15.95</odp>
+	</priklad>
+	<priklad id="191">
+		<maturita>2012/11</maturita>
+		<typ>0</typ>
+		<odp>0.12</odp>
+	</priklad>
+	<priklad id="192">
+		<maturita>2012/12</maturita>
+		<typ>0</typ>
+		<odp>5</odp>
+	</priklad>
+	<priklad id="193">
+		<maturita>2012/13</maturita>
+		<typ>0</typ>
+		<odp>22.8</odp>
+	</priklad>
+	<priklad id="194">
+		<maturita>2012/14</maturita>
+		<typ>0</typ>
+		<odp>350</odp>
+	</priklad>
+	<priklad id="195">
+		<maturita>2012/15</maturita>
+		<typ>0</typ>
+		<odp>241.66</odp>
+	</priklad>
+	<priklad id="196">
+		<maturita>2012/16</maturita>
+		<typ>0</typ>
+		<odp>173</odp>
+	</priklad>
+	<priklad id="197">
+		<maturita>2012/17</maturita>
+		<typ>0</typ>
+		<odp>9.6</odp>
+	</priklad>
+	<priklad id="198">
+		<maturita>2012/18</maturita>
+		<typ>0</typ>
+		<odp>37</odp>
+	</priklad>
+	<priklad id="199">
+		<maturita>2012/19</maturita>
+		<typ>0</typ>
+		<odp>540</odp>
+	</priklad>
+	<priklad id="200">
+		<maturita>2012/20</maturita>
+		<typ>0</typ>
+		<odp>2</odp>
+	</priklad>
+	<priklad id="201">
+		<maturita>2012/21</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="202">
+		<maturita>2012/22</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="203">
+		<maturita>2012/23</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="204">
+		<maturita>2012/24</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="205">
+		<maturita>2012/25</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="206">
+		<maturita>2012/26</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="207">
+		<maturita>2012/27</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="208">
+		<maturita>2012/28</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="209">
+		<maturita>2012/29</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="210">
+		<maturita>2012/30</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="211">
+		<maturita>2011/1</maturita>
+		<typ>0</typ>
+		<odp>15</odp>
+	</priklad>
+	<priklad id="212">
+		<maturita>2011/2</maturita>
+		<typ>0</typ>
+		<odp>336</odp>
+	</priklad>
+	<priklad id="213">
+		<maturita>2011/3</maturita>
+		<typ>0</typ>
+		<odp>34</odp>
+	</priklad>
+	<priklad id="214">
+		<maturita>2011/4</maturita>
+		<typ>0</typ>
+		<odp>36</odp>
+	</priklad>
+	<priklad id="215">
+		<maturita>2011/5</maturita>
+		<typ>0</typ>
+		<odp>-2011</odp>
+	</priklad>
+	<priklad id="216">
+		<maturita>2011/6</maturita>
+		<typ>0</typ>
+		<odp>90</odp>
+	</priklad>
+	<priklad id="217">
+		<maturita>2011/7</maturita>
+		<typ>0</typ>
+		<odp>-40</odp>
+	</priklad>
+	<priklad id="218">
+		<maturita>2011/8</maturita>
+		<typ>0</typ>
+		<odp>36</odp>
+	</priklad>
+	<priklad id="219">
+		<maturita>2011/9</maturita>
+		<typ>0</typ>
+		<odp>4.24</odp>
+	</priklad>
+	<priklad id="220">
+		<maturita>2011/10</maturita>
+		<typ>0</typ>
+		<odp>348</odp>
+	</priklad>
+	<priklad id="221">
+		<maturita>2011/11</maturita>
+		<typ>0</typ>
+		<odp>700</odp>
+	</priklad>
+	<priklad id="222">
+		<maturita>2011/12</maturita>
+		<typ>0</typ>
+		<odp>0.11</odp>
+	</priklad>
+	<priklad id="223">
+		<maturita>2011/13</maturita>
+		<typ>0</typ>
+		<odp>6</odp>
+	</priklad>
+	<priklad id="224">
+		<maturita>2011/14</maturita>
+		<typ>0</typ>
+		<odp>35.26</odp>
+	</priklad>
+	<priklad id="225">
+		<maturita>2011/15</maturita>
+		<typ>0</typ>
+		<odp>5</odp>
+	</priklad>
+	<priklad id="226">
+		<maturita>2011/16</maturita>
+		<typ>0</typ>
+		<odp>294</odp>
+	</priklad>
+	<priklad id="227">
+		<maturita>2011/17</maturita>
+		<typ>0</typ>
+		<odp>242</odp>
+	</priklad>
+	<priklad id="228">
+		<maturita>2011/18</maturita>
+		<typ>0</typ>
+		<odp>2</odp>
+	</priklad>
+	<priklad id="229">
+		<maturita>2011/19</maturita>
+		<typ>0</typ>
+		<odp>10</odp>
+	</priklad>
+	<priklad id="230">
+		<maturita>2011/20</maturita>
+		<typ>0</typ>
+		<odp>3</odp>
+	</priklad>
+	<priklad id="231">
+		<maturita>2011/21</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="232">
+		<maturita>2011/22</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="233">
+		<maturita>2011/23</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="234">
+		<maturita>2011/24</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="235">
+		<maturita>2011/25</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="236">
+		<maturita>2011/26</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="237">
+		<maturita>2011/27</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="238">
+		<maturita>2011/28</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="239">
+		<maturita>2011/29</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="240">
+		<maturita>2011/30</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="241">
+		<maturita>2010/1</maturita>
+		<typ>0</typ>
+		<odp>670</odp>
+	</priklad>
+	<priklad id="242">
+		<maturita>2010/2</maturita>
+		<typ>0</typ>
+		<odp>3</odp>
+	</priklad>
+	<priklad id="243">
+		<maturita>2010/3</maturita>
+		<typ>0</typ>
+		<odp>22</odp>
+	</priklad>
+	<priklad id="244">
+		<maturita>2010/4</maturita>
+		<typ>0</typ>
+		<odp>2</odp>
+	</priklad>
+	<priklad id="245">
+		<maturita>2010/5</maturita>
+		<typ>0</typ>
+		<odp>8</odp>
+	</priklad>
+	<priklad id="246">
+		<maturita>2010/6</maturita>
+		<typ>0</typ>
+		<odp>16</odp>
+	</priklad>
+	<priklad id="247">
+		<maturita>2010/7</maturita>
+		<typ>0</typ>
+		<odp>3</odp>
+	</priklad>
+	<priklad id="248">
+		<maturita>2010/8</maturita>
+		<typ>0</typ>
+		<odp>5</odp>
+	</priklad>
+	<priklad id="249">
+		<maturita>2010/9</maturita>
+		<typ>0</typ>
+		<odp>12</odp>
+	</priklad>
+	<priklad id="250">
+		<maturita>2010/10</maturita>
+		<typ>0</typ>
+		<odp>160</odp>
+	</priklad>
+	<priklad id="251">
+		<maturita>2010/11</maturita>
+		<typ>0</typ>
+		<odp>17</odp>
+	</priklad>
+	<priklad id="252">
+		<maturita>2010/12</maturita>
+		<typ>0</typ>
+		<odp>31.25</odp>
+	</priklad>
+	<priklad id="253">
+		<maturita>2010/13</maturita>
+		<typ>0</typ>
+		<odp>6</odp>
+	</priklad>
+	<priklad id="254">
+		<maturita>2010/14</maturita>
+		<typ>0</typ>
+		<odp>2.26</odp>
+	</priklad>
+	<priklad id="255">
+		<maturita>2010/15</maturita>
+		<typ>0</typ>
+		<odp>18</odp>
+	</priklad>
+	<priklad id="256">
+		<maturita>2010/16</maturita>
+		<typ>0</typ>
+		<odp>19</odp>
+	</priklad>
+	<priklad id="257">
+		<maturita>2010/17</maturita>
+		<typ>0</typ>
+		<odp>-4</odp>
+	</priklad>
+	<priklad id="258">
+		<maturita>2010/18</maturita>
+		<typ>0</typ>
+		<odp>5</odp>
+	</priklad>
+	<priklad id="259">
+		<maturita>2010/19</maturita>
+		<typ>0</typ>
+		<odp>3</odp>
+	</priklad>
+	<priklad id="260">
+		<maturita>2010/20</maturita>
+		<typ>0</typ>
+		<odp>-1</odp>
+	</priklad>
+	<priklad id="261">
+		<maturita>2010/21</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+	<priklad id="262">
+		<maturita>2010/22</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="263">
+		<maturita>2010/23</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="264">
+		<maturita>2010/24</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="265">
+		<maturita>2010/25</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="266">
+		<maturita>2010/26</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="267">
+		<maturita>2010/27</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="268">
+		<maturita>2010/28</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="269">
+		<maturita>2010/29</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="270">
+		<maturita>2010/30</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="271">
+		<maturita>2009/1</maturita>
+		<typ>0</typ>
+		<odp>20</odp>
+	</priklad>
+	<priklad id="272">
+		<maturita>2009/2</maturita>
+		<typ>0</typ>
+		<odp>-9</odp>
+	</priklad>
+	<priklad id="273">
+		<maturita>2009/3</maturita>
+		<typ>0</typ>
+		<odp>6</odp>
+	</priklad>
+	<priklad id="274">
+		<maturita>2009/4</maturita>
+		<typ>0</typ>
+		<odp>2</odp>
+	</priklad>
+	<priklad id="275">
+		<maturita>2009/5</maturita>
+		<typ>0</typ>
+		<odp>22.22</odp>
+	</priklad>
+	<priklad id="276">
+		<maturita>2009/6</maturita>
+		<typ>0</typ>
+		<odp>2</odp>
+	</priklad>
+	<priklad id="277">
+		<maturita>2009/7</maturita>
+		<typ>0</typ>
+		<odp>0.5</odp>
+	</priklad>
+	<priklad id="278">
+		<maturita>2009/8</maturita>
+		<typ>0</typ>
+		<odp>297</odp>
+	</priklad>
+	<priklad id="279">
+		<maturita>2009/9</maturita>
+		<typ>0</typ>
+		<odp>28</odp>
+	</priklad>
+	<priklad id="280">
+		<maturita>2009/10</maturita>
+		<typ>0</typ>
+		<odp>-43</odp>
+	</priklad>
+	<priklad id="281">
+		<maturita>2009/11</maturita>
+		<typ>0</typ>
+		<odp>61.55</odp>
+	</priklad>
+	<priklad id="282">
+		<maturita>2009/12</maturita>
+		<typ>0</typ>
+		<odp>8.25</odp>
+	</priklad>
+	<priklad id="283">
+		<maturita>2009/13</maturita>
+		<typ>0</typ>
+		<odp>-7</odp>
+	</priklad>
+	<priklad id="284">
+		<maturita>2009/14</maturita>
+		<typ>0</typ>
+		<odp>2.4</odp>
+	</priklad>
+	<priklad id="285">
+		<maturita>2009/15</maturita>
+		<typ>0</typ>
+		<odp>6</odp>
+	</priklad>
+	<priklad id="286">
+		<maturita>2009/16</maturita>
+		<typ>0</typ>
+		<odp>2</odp>
+	</priklad>
+	<priklad id="287">
+		<maturita>2009/17</maturita>
+		<typ>0</typ>
+		<odp>0.5</odp>
+	</priklad>
+	<priklad id="288">
+		<maturita>2009/18</maturita>
+		<typ>0</typ>
+		<odp>10.58</odp>
+	</priklad>
+	<priklad id="289">
+		<maturita>2009/19</maturita>
+		<typ>0</typ>
+		<odp>135</odp>
+	</priklad>
+	<priklad id="290">
+		<maturita>2009/20</maturita>
+		<typ>0</typ>
+		<odp>2.78</odp>
+	</priklad>
+	<priklad id="291">
+		<maturita>2009/21</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="292">
+		<maturita>2009/22</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="293">
+		<maturita>2009/23</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="294">
+		<maturita>2009/24</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="295">
+		<maturita>2009/25</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="296">
+		<maturita>2009/26</maturita>
+		<typ>1</typ>
+		<odp>A</odp>
+	</priklad>
+	<priklad id="297">
+		<maturita>2009/27</maturita>
+		<typ>1</typ>
+		<odp>E</odp>
+	</priklad>
+	<priklad id="298">
+		<maturita>2009/28</maturita>
+		<typ>1</typ>
+		<odp>D</odp>
+	</priklad>
+	<priklad id="299">
+		<maturita>2009/29</maturita>
+		<typ>1</typ>
+		<odp>B</odp>
+	</priklad>
+	<priklad id="300">
+		<maturita>2009/30</maturita>
+		<typ>1</typ>
+		<odp>C</odp>
+	</priklad>
+</Priklady>

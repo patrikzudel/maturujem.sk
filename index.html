@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="utf-8">
+    <meta name="theme-color" content="#FAFAFA"/>
+    <meta name="description" content="Najlepší spôsob prípravy na externú maturitu z Matematiky! Otestujte sa z príkladov z predošlých maturit my ich vám hneď opravíme.">
+    <meta name="keywords" content="Matematika,Maturita,Priklady,Priprava,Ucit,Ucenie">
+    <meta name="author" content="Patrik Žúdel">
+    <title>Maturujem.sk | Najlepší spôsob prípravy na maturitu!</title>
+    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,500" rel="stylesheet">
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="js.cookie.js"></script>
+</head>
+
+<body>
+    <h1 style="display:none">Najlepší spôsob prípravy na maturitu!</h1>
+    <div class="nav">
+        <a href="index.html" id="DalsiPC">Ďalší príklad</a>
+        <a href="index.html" id="DalsiMobile"><img src="ikony/arrow.png"></a>
+        <button onclick="customPriklad(); Clear()" id="submit"><img src="ikony/enter.png"></button>
+        <input type="text" name="custompriklad" placeholder="###" id="custPriklad" maxlength="3" class="Numeric">
+        <div class="textContainer"><p id="PrikladID"></p></div>
+    </div>
+    <div class="sidenav">
+        <label>
+            <input type="radio" name="radio" checked="checked" onclick="Pencil()" id="PencilIcon">
+            <img src="ikony/pencil.png">
+        </label>
+        <div class="colors">
+            <label>
+                <input type="radio" name="radio2" checked="checked" onclick="colorChange('black')">
+                <img src="ikony/black.png" id="black">
+            </label>
+            <label>
+                <input type="radio" name="radio2" onclick="colorChange('#ec4a4a')">
+                <img src="ikony/red.png" id="red">
+            </label>
+            <label>
+                <input type="radio" name="radio2" onclick="colorChange('#59905e')">
+                <img src="ikony/green.png" id="green">
+            </label>
+        </div>
+        <label>
+            <input type="radio" name="radio" onclick="Eraser()">
+            <img src="ikony/eraser.png">
+        </label>
+        <button onclick="Clear()" class="tool"><img src="ikony/reset.png"></button>
+        <a target="_blank" href="http://maturujem.sk/vzorce.png" rel="noopener noreferrer" class="tool"><img src="ikony/book.png"></a>
+    </div>
+    <div class="PrikladCont">
+    <img id="PrikladIMG" src="">
+    </div>
+
+    <canvas id="draw"></canvas>
+    
+    <div class="odpovede0">
+        <div class="SpravnaOdpoved">
+            <p id="spravnaOdp"></p>
+        </div>
+    <input type="text" name="odpoved" id="odpoved0Input" class="Decimal" maxlength="10">
+    <button onclick="checkAns0()" id="buttonCheck0">Odpoveď</button>
+    </div>
+
+    <div class="odpovede1">
+        <button onclick="checkAns1('A')" id="A">A</button>
+        <button onclick="checkAns1('B')" id="B">B</button>
+        <button onclick="checkAns1('C')" id="C">C</button>
+        <button onclick="checkAns1('D')" id="D">D</button>
+        <button onclick="checkAns1('E')" id="E">E</button>
+    </div>
+    
+    <div class="footer">
+        <p>Patrik Žúdel @2018</p>
+        <a href="/about.html">O projekte</a>
+    </div>
+
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="js.cookie.js"></script>
+    <script src="priklad.js"></script>
+    <script src="whiteboard.js"></script>
+</body>
+</html>
