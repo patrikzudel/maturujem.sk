@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Yes</title>
+		<style>
+			body { margin: 0; }
+			canvas { display: block; }
+		</style>
+	</head>
+	<body>
+		<script src="/three.js"></script>
+		<script>
+            // Vars
+            var scene = new THREE.Scene();
+            var camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
+            var renderer = new THREE.WebGLRenderer();
+            renderer.setSize( window.innerWidth, window.innerHeight );
+            document.body.appendChild( renderer.domElement );
+            var geometry = new THREE.BoxGeometry();
+            const loader = new THREE.TextureLoader();
+            const material = new THREE.MeshBasicMaterial({ map: loader.load('https://scontent-vie1-1.xx.fbcdn.net/v/t1.15752-9/89279282_498480047484824_8933058502780256256_n.jpg?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=Xo9AKJ-BbUwAX_5LfrG&_nc_ht=scontent-vie1-1.xx&oh=f7e9d009e18dab5bc9b5442df30f72ca&oe=5E92258A'), });
+            var cube = new THREE.Mesh( geometry, material );
+            var listener = new THREE.AudioListener();
+            var sound = new THREE.Audio( listener );
+
+            
+            // Audio
+            var audioLoader = new THREE.AudioLoader();
+            audioLoader.load( 'yes.mp3', function( buffer ) {
+                sound.setBuffer( buffer );
+                sound.setLoop( true );
+                sound.setVolume( 0.5 );
+                sound.play();
+            });
+
+            //*******************************
+            // Nekukaj sa mi na kod ty kompot
+            //*******************************
+            camera.add(listener);
+            scene.add( cube );
+            camera.position.z = 5;
+
+            function animate() {
+                cube.rotation.x += 0.01;
+                cube.rotation.y += 0.01;
+                requestAnimationFrame( animate );
+                renderer.render( scene, camera );
+            }
+            animate();
+		</script>
+	</body>
+</html>
