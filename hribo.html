@@ -19,7 +19,7 @@
             document.body.appendChild( renderer.domElement );
             var geometry = new THREE.BoxGeometry();
             const loader = new THREE.TextureLoader();
-            const material = new THREE.MeshBasicMaterial({ map: loader.load('https://scontent-vie1-1.xx.fbcdn.net/v/t1.15752-9/89279282_498480047484824_8933058502780256256_n.jpg?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=Xo9AKJ-BbUwAX_5LfrG&_nc_ht=scontent-vie1-1.xx&oh=f7e9d009e18dab5bc9b5442df30f72ca&oe=5E92258A'), });
+            const material = new THREE.MeshBasicMaterial({ map: loader.load('https://scontent-vie1-1.cdninstagram.com/v/t51.2885-15/e15/s480x480/140787546_265929451590305_4406277327511469566_n.jpg?_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=I3xE-KKzMDMAX-l2-2_&tp=1&oh=8d1e3b4c86db5a2eb26d3ec517c63169&oe=6035D111&ig_cache_key=MjQ5MzM0OTY3NzgyNTg4NTkwOQ%3D%3D.2'), });
             var cube = new THREE.Mesh( geometry, material );
             var listener = new THREE.AudioListener();
             var sound = new THREE.Audio( listener );
