@@ -1,3 +1,3 @@
-# maturujem.sk
-### Stránka pre prípravu študentov na maturitu z matematiky
-Prístup na: https://patrikzudel.github.io/maturujem.sk/
+# 📖 Maturujem.sk
+### ⚡ Stránka pre prípravu študentov na maturitu z matematiky
+### Prístup na: https://patrikzudel.github.io/maturujem.sk/
